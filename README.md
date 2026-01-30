@@ -2,7 +2,9 @@
   <img src="sua.gif" width="300"/>
 </p>
 
-<h3 align="center">【 ごめん、でも愛してる 】</h3>
+<p align="center"><strong>
+【 ごめん、でも愛してる 】
+</strong></p>
 
 <p align="center">
   𝄞 𓂃 welcome ! ♡
@@ -11,17 +13,16 @@
 <p align="center">
   <sub>spy account ⚠️</sub>
 </p>
-
 ---
-
-### ✿ miyoubi · miyo
-she / her
+<p><strong>✿ miyoubi · miyo</strong><br/>
+she / her</p>
 ---
-> not everything here is meant to be understood.
+<p><em>not everything here is meant to be understood.</em></p>
 
 <p align="center">
   ♡ thank you for stopping by
 </p>
+
 
 <!--
 **miyoubixx/miyoubixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
