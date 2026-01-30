@@ -14,7 +14,10 @@
 ### ✦ notes
 > not everything here is meant to be understood.
 
----
+<p align="center">
+  <img src="sua.gif" width="300"/>
+</p>
+
 
 **♡ thank you for stopping by**
 
