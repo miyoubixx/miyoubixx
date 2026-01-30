@@ -13,10 +13,14 @@
 <p align="center">
   <sub>spy account ⚠️</sub>
 </p>
+
 ---
+
 <p><strong>✿ miyoubi · miyo</strong><br/>
 she / her</p>
+
 ---
+
 <p><em>not everything here is meant to be understood.</em></p>
 
 <p align="center">
