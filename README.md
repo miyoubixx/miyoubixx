@@ -11,11 +11,6 @@
 𓂃 Please tread gently.
 
 ---
-### ✦ status
-- observing  
-- learning  
-- disappearing sometimes  
-
 ### ✦ notes
 > not everything here is meant to be understood.
 
