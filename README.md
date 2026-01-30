@@ -1,4 +1,27 @@
-## Hi there 👋
+# 【 ごめんなさい、でも私はあなたをとても愛しています 】
+
+𝄞 𓂃 **welcome !** ♡
+
+> *spy account ⚠️*
+
+---
+
+## ✿ miyoubi · miyo
+**she / her**
+𓂃 Please tread gently.
+
+---
+### ✦ status
+- observing  
+- learning  
+- disappearing sometimes  
+
+### ✦ notes
+> not everything here is meant to be understood.
+
+---
+
+**♡ thank you for stopping by**
 
 <!--
 **miyoubixx/miyoubixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
